@@ -1,0 +1,114 @@
+css cascading stylesheets
+
+three type css file
+
+learn font style,font-family
+commend /* commend */
+
+1.inline-directly in html
+<h1 style="color:red"> hello </h1>    syntax
+
+2.internal -using style tags in html
+
+ <style type="text/css"> 
+  h1{
+    color:red;
+   }
+</style>
+
+
+3.external-linking external css file
+
+<link= rel="stylesheet" type="text/css" href="style.css">    -- css file link in html
+ 
+HTML COLOR CODES WEBSITE 
+
+h1
+{
+font-weight:bold;
+font-size:10px;
+
+}
+
+h2
+{
+   color:red;
+   background-color:blue;
+}
+
+
+colors useing css  ex : #FFF0000 or red  or rbg   
+
+hexadecimal = #FF0000
+normal = red
+rbg = 245, 18, 35 
+
+class useing html code 
+
+<div class="t1">
+<p> oiolskxojdok
+
+</p>
+
+</div>
+
+class useing to css
+
+.t1
+{
+ color:red;
+}
+
+
+font-family: tahoma;
+	font-style: italic;
+	text-decoration: underline;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	word-spacing: 0,3em;
+
+
+width:10px ;  px means fixed assign
+width:100%; % assign with anyway
+.container
+
+{
+	color:brown;
+   width:150px;
+   margin-top:100px ;	
+
+a:hover    click then change color
+{
+   color:red;
+
+}
+
+a:active       next page open check 
+
+{
+   color:green
+}
+
+a:visited     seen the website color change
+{
+  color:blue;
+}
+
+list style useing
+
+.t4  u1{
+
+   list-style:circle;
+   list-style:asteriks  ---number style
+   list-style-image:url(' image.jgg');         ...... image insert in list image use comfortable or yours size 
+   
+}
+
+
+......................................................................................................................................................................
+ Part -2
+h1,h2,p{
+ color:red;
+}
+
+alll screen same content showing
